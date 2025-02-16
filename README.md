@@ -25,9 +25,39 @@ Mobile application designed to streamline the process of inviting guests to vari
 - **Database:** SQLite (for local data storage and offline support)  
 - **Encryption:** Encrypto package (AES Algorithm for secure backup and restoration)  
 
-<h2>Program walk-through:</h2>
-<!----
->
-<p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/WouINQ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+## 🖼️ Application Walk-Through & Screenshots
+
+### 1. Welcome Screen  
+**Description**: The first screen users see, explaining the app’s purpose: organizing events digitally using QR codes instead of paper invitations.  
+**Key Highlights**:  
+- Clean, modern UI with a focus on sustainability.  
+- Direct call-to-action to create or manage events.  
+- Compatibility with all device sizes (responsive design).  
+
+<img src="https://github.com/user-attachments/assets/03f7a9f0-89e1-4b96-b728-abb0beba204f" 
+     width="259" height="547" 
+     alt="Disk Sanitization Steps"/>
+ 
+
+---
+
+### 2. Create Invitation Screen  
+**Description**: Users input event details like name, type (e.g., "Wedding"), and upload custom images (up to 25MB). Option to embed QR codes directly into the invitation.  
+**Key Interactions**:  
+- **Drag & Drop Image Upload**: Intuitive media attachment.  
+- **QR Code Integration**: Auto-generates scannable codes for event access.  
+- **Form Validation**: Ensures mandatory fields (e.g., event name) are filled.  
+
+<img src="https://github.com/user-attachments/assets/03f7a9f0-89e1-4b96-b728-abb0beba204f" 
+     width="259" height="547" 
+     alt="Disk Sanitization Steps"/>
+  
+
+---
+
+## 🚀 How It Works  
+1. **Create Event**: Fill in details, upload images, and generate a QR code.  
+2. **Share Invite**: Send the QR code digitally (email, WhatsApp, etc.).  
+3. **Guest Management**: Scan QR codes at the event for attendance tracking.  
+
