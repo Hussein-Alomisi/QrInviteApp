@@ -127,5 +127,15 @@ Mobile application designed to streamline the process of inviting guests to vari
   </tr>
 </table>
 
+---
+
+### 6. Settings Screen
+**Description**: User can backup any invitation and resotre it from the same devices or share it with others.
+
+<img src="https://github.com/user-attachments/assets/af9fda42-e18f-4ad0-8b43-c9d38ef50c5a" 
+     width="259" height="547" 
+     alt="Disk Sanitization Steps"/>
+
+
 
 
