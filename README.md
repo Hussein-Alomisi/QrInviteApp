@@ -7,6 +7,7 @@ Mobile application designed to streamline the process of inviting guests to vari
  conferences, and graduation ceremonies via QR code-based invitation cards. The app offers a seamless and
  paperless solution for event organizers.
 <br />
+
 ---
 ### 🛠️ Used Technologies    
 - **Framework:** Flutter  
