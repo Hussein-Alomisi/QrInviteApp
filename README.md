@@ -63,7 +63,7 @@ Mobile application designed to streamline the process of inviting guests to vari
 
 ---
   
-### 3. Add Guest Screens
+### 3. Add Guests Screens
 **Description**: User can input his guests by their names or enter the amount of guests that he wants to invite.  
 
 <table style="border-collapse: collapse; border: none;">
@@ -84,7 +84,7 @@ Mobile application designed to streamline the process of inviting guests to vari
 
 ---
 
-### 4. Guest List Screens
+### 4. Guests Screens
 **Description**: User can view and share the invitation with his guests.
 <table style="border-collapse: collapse; border: none;">
   <tr>
