@@ -34,7 +34,7 @@ Mobile application designed to streamline the process of inviting guests to vari
   </tr>
   <tr>
     <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/03f7a9f0-89e1-4b96-b728-abb0beba204f" width="259" height="547" alt="Add Guest By Names"/>
+      <img src="https://github.com/user-attachments/assets/bec5176b-8552-4e6f-bb9a-184d5c01962e" width="259" height="547" alt="Add Guest By Names"/>
     </td>
     <td style="border: none;">
       <img src="https://github.com/user-attachments/assets/a3650ca5-c8ae-4e69-b6b0-fd545e71be1b" width="259" height="547" alt="Add Guest By Names"/>
